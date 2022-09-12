@@ -1,2 +1,2 @@
 # inventory
-inventory django
+inventory django dv
